@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Sample.Meetup.SwaggerDtoGenerator": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\demo\\Sample.SwaggerDtoGenerator.Demo\\Sample.SwaggerDtoGenerator.Demo.csproj"
+    }
+  }
+}
